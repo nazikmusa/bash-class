@@ -1,5 +1,5 @@
 #!/bin/bash
 
-read -s -p "Enter your name: " name
+read -s -p "Enter your name: " names
 
-echo Hello $name
+echo Hello $names
